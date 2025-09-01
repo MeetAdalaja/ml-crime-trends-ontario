@@ -17,6 +17,7 @@ Cannabis legalization in 2018 (structural shift in drug violations)
 Socioeconomic factor: unemployment rate (minimal predictive effect)
 
 ⚙️ Methodology
+
 🔹 Data Preprocessing
 
 Transposed crime violations into feature columns indexed by year
