@@ -74,17 +74,17 @@ Ablation study bar charts
 
 🛠️ Tech Stack
 
-Language: Python 3.10
+Language: Python 3.12.7
 
 Libraries:
 
-pandas, numpy → Data processing
+pandas (2.2.2), numpy (1.26.4) → Data processing
 
-scikit-learn → ML models
+scikit-learn (1.5.1) → ML models
+
+matplotlib (3.9.2), seaborn (0.13.2) → Visualization
 
 xgboost → Gradient boosting
-
-matplotlib, seaborn → Visualization
 
 🚀 How to Run
 
